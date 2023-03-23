@@ -7,4 +7,4 @@ Este proyecto esta desarrollado para la **Universidad Continental**
 | Header | Title |
 | Paragraph | Text |
 
-![alt text](image.jpg)
+![imagen de un panda con una cmputadora](descarga.png)
